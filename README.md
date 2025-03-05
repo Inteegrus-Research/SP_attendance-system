@@ -7,8 +7,8 @@ A smart AI-based automated classroom attendance system using Firebase and Comput
 ✅ Hosted on Netlify  
 
 ## 🔗 Live Demo
-[Teacher Portal](your-netlify-link-here)  
-[Student Portal](your-netlify-link-here)
+[Teacher Portal](https://ece-b-teacher-attendance.netlify.app/)  
+[Student Portal](https://ece-b-student-attendance.netlify.app/)
 
 ## 📦 Technologies Used
 - React.js
