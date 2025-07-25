@@ -62,4 +62,8 @@ Crafted with care by **Inteegrus**
 Connect if you'd like to collaborate or enhance this system!
 
 ---
+<img width="1882" height="865" alt="Screenshot 2025-07-26 050944" src="https://github.com/user-attachments/assets/4a1a60e6-d79e-44be-8284-360bfa3eb2ea" />
+<img width="1899" height="854" alt="image" src="https://github.com/user-attachments/assets/e56029bc-c64e-4b31-8c66-c975251b7505" />
+
+
 
